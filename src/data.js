@@ -23,6 +23,27 @@ module.exports = [
     ],
   },
   {
+    name: 'Jassem Gaaloul',
+    description: 'web/Mobile developer',
+    url: 'https://jassemdev.herokuapp.com',
+   
+    emoji: '⚡️',
+    country: 'tn',
+    computer: 'Dell',
+    phone: 'iphone',
+    tags: [
+      'Accessibility',
+      'Blogger',
+      'React',
+      'Developer',
+      'JAMstack',
+      'JavaScript',
+      'Node.js',
+      'Mobile',
+      'Web',
+    ],
+  },
+  {
     name: 'Vadim Smirnov',
     description:
       'Software engineer and Community Leader at Facebook DevC. Working in React ecosystem.',
